@@ -1,0 +1,12 @@
+.btn{
+    background-color: antiquewhite;
+    color: white;
+    position: absolute;
+    top: 420px;
+    left: 1030px;
+    padding: 10px 60px;
+    border: 1px solid black;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    text-decoration: none;
+}
